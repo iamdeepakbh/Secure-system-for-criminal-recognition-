@@ -1,4 +1,4 @@
-# Secure-system-for-criminal-recognition-
+# Secure-system-for-criminal-recognition
 The Secure Criminal Identification System is an advanced and secure
 solution that accurately identifies individuals involved in criminal activities. Face recognition, encryption techniques, and cutting-edge
 identification algorithms, the system ensures data privacy and
